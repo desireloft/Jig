@@ -34,7 +34,7 @@ Some of the jig components are:
   - Include dimensions and annotations for manufacturing, with GD&T or explicit tolerances unless specified.
 - **Assembly Drawing**:
   - Comprehensive drawing for `JIG ASSEMBLY` with an exploded view.
-  - Includes a **Bill of Materials (BOM)** listing all components, including standard fasteners (if applicable).
+  - Includes a **Bill of Materials (BOM)** listing all components, including standard fasteners.
 - **PDF Exports**:
   - All drawings are exported as PDFs for easy sharing and review (located in the `PDF/` folder).
 
