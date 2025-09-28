@@ -1,8 +1,16 @@
 # Jig Assembly
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="./media/jig_assy.png" alt="Jig Assembly" width="300">
+</div>
+
 ## Overview
 
 This repository showcases a jig assembly designed in **SolidWorks** to demonstrate my expertise in CAD modeling, jig design for manufacturing, and technical documentation. The project includes a complete jig assembly, individual part models, technical drawings, and STEP files for interoperability. The jig is designed to facilitate precise alignment and securing of components during manufacturing processes (e.g., drilling). The design is optimized for manufacturing (e.g., machining, assembly) and rapid prototyping, highlighting skills in precision engineering and process optimization.
+
+## Demo Video
+
+[Click here to watch the Jig animation video](https://desireloft.github.io/Jig/jig.html)
 
 ## Project Details
 
